@@ -1,0 +1,14 @@
+C:\Users\Yahya\New folder\calculatar\bin\Debug\net8.0\calculatar.exe
+C:\Users\Yahya\New folder\calculatar\bin\Debug\net8.0\calculatar.deps.json
+C:\Users\Yahya\New folder\calculatar\bin\Debug\net8.0\calculatar.runtimeconfig.json
+C:\Users\Yahya\New folder\calculatar\bin\Debug\net8.0\calculatar.dll
+C:\Users\Yahya\New folder\calculatar\bin\Debug\net8.0\calculatar.pdb
+C:\Users\Yahya\New folder\calculatar\obj\Debug\net8.0\calculatar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yahya\New folder\calculatar\obj\Debug\net8.0\calculatar.AssemblyInfoInputs.cache
+C:\Users\Yahya\New folder\calculatar\obj\Debug\net8.0\calculatar.AssemblyInfo.cs
+C:\Users\Yahya\New folder\calculatar\obj\Debug\net8.0\calculatar.csproj.CoreCompileInputs.cache
+C:\Users\Yahya\New folder\calculatar\obj\Debug\net8.0\calculatar.dll
+C:\Users\Yahya\New folder\calculatar\obj\Debug\net8.0\refint\calculatar.dll
+C:\Users\Yahya\New folder\calculatar\obj\Debug\net8.0\calculatar.pdb
+C:\Users\Yahya\New folder\calculatar\obj\Debug\net8.0\calculatar.genruntimeconfig.cache
+C:\Users\Yahya\New folder\calculatar\obj\Debug\net8.0\ref\calculatar.dll
